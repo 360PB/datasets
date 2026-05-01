@@ -29,7 +29,7 @@
 | 文件名 | 说明 | 直链下载 |
 |--------|------|----------|
 | `short_drama_quark_40k.csv` | 主数据文件 | [Raw 直链](https://raw.githubusercontent.com/360PB/datasets/main/short_drama_quark_40k.csv) |
-| `skills/quark-link-validator/` | 夸克链接检测 Skill（异步批量检测） | [安装 Skill](https://github.com/360PB/datasets/tree/main/skills/quark-link-validator) |
+| `skills/quark-link-validator/` | 夸克链接检测 Skill（异步批量检测） | [安装 Skill](https://raw.githubusercontent.com/360PB/datasets/refs/heads/main/skills/quark-link-validator/SKILL.md) |
 
 ---
 
