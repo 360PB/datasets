@@ -3,7 +3,7 @@
 > 公开数据集：收录 4万+ 条热门短剧夸克网盘分享资源，包含资源标题、分享链接、播放量、更新时间等字段，支持 AI 直接读取与分析。
 
 [![数据集大小](https://img.shields.io/badge/数据量-43,709条-blue)]()
-[![更新日期](https://img.shields.io/badge/更新日期-2024--10--28-green)]()
+[![更新日期](https://img.shields.io/badge/更新日期-2026--05--01-green)]()
 [![格式](https://img.shields.io/badge/格式-CSV-orange)]()
 [![授权](https://img.shields.io/badge/授权-CC0--Public--Domain-lightgrey)]()
 
@@ -19,6 +19,7 @@
 | **文件大小** | 约 4.7 MB |
 | **数据时间范围** | 2024年10月 |
 | **更新频率** | 不定期更新 |
+| **数据清洗** | 已做文件名去重、链接有效性检测 |
 | **数据来源** | 夸克网盘公开分享链接聚合 |
 
 ---
